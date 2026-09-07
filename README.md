@@ -9,3 +9,15 @@
 - 文件库存、容量和内容分类属于 Registry 或审计索引，不写入 description。
 - 普通内容增删不应触发 description 更新。
 - 资料归属必须遵守仓库路由与物理仓库契约。
+
+## 课程代码与原始课程名
+
+| 课程代码 | 原始课程名 |
+|---|---|
+| `13GC42000100` | 雅思应试技巧 |
+| `ELEC21041` | Basic Electronic Components |
+| `ELEC21042` | Amplifiers and Circuits |
+| `ELEC21043` | Labs of Electronic Devices |
+| `ENGG18051` | Professional Engineering Introduction |
+| `ENGG18052` | Information Technology Introduction |
+| `ENGG18053` | Teams and Practics of IT |
